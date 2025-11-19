@@ -1,0 +1,33 @@
+╔═══════════════════════════════════════════════════════════╗
+║         📁 ADD YOUR 8 RECIPE IMAGES IN THIS FOLDER        ║
+╚═══════════════════════════════════════════════════════════╝
+
+EXACT FILENAMES REQUIRED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ FEATURED RECIPES (Auto-rotating every 2 minutes):
+   1. butter-chicken.jpg
+   2. butter-paneer.jpg
+
+🔥 LATEST RECIPES (6 static cards):
+   3. paneer-tikka.jpg
+   4. biryani.jpg
+   5. palak-paneer.jpg
+   6. masala-dosa.jpg
+   7. chole-bhature.jpg
+   8. gulab-jamun.jpg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📏 IMAGE SPECS:
+   • Size: 800x600 pixels (landscape)
+   • Format: JPG, PNG, or WebP
+   • Max file size: 500KB
+
+🎯 CURRENT LOCATION:
+   /home/whoami/my-ecommerce-site/recipe_app/my-next-app/public/images/recipes/
+
+🌐 VISUAL GUIDE:
+   Open "image-guide.html" in your browser to see the layout!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

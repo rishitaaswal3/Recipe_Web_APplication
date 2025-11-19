@@ -1,0 +1,13 @@
+Required Recipe Images:
+========================
+
+1. butter-chicken.jpg
+2. butter-paneer.jpg
+3. paneer-tikka.jpg
+4. biryani.jpg
+5. palak-paneer.jpg
+6. masala-dosa.jpg
+7. chole-bhature.jpg
+8. gulab-jamun.jpg
+
+Place your images with these exact filenames in this directory.
